@@ -2,9 +2,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/AIGramApp/AIGram-web">
-    <img src="./public/favicon.png" alt="Logo" width="200" height="200">
-  </a>
 
   <h3 align="center">Profile</h3>
 
