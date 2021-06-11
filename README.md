@@ -25,9 +25,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Screenshot](./images/main.png)
-![Screenshot](./images/main2.png)
-![Screenshot](./images/bg.png)
 
 This project is about a personal account. Which helps the user to change their data, as well as send the necessary documents.
 ### Built With
