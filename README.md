@@ -8,7 +8,7 @@
   <p align="center">
     <br />
     <br />
-    <a href="https://elegant-mestorf-e97e83.netlify.app/main/profile">View Demo</a>
+    <a href="https://profile-section.netlify.app/">View Demo</a>
   </p>
 </p>
 
